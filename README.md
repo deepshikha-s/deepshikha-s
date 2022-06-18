@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=deepshikha-s&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepshikha-s&theme=dark" />
 <!--
 **deepshikha-s/deepshikha-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
